@@ -7,3 +7,9 @@
 
 echo this is sathya
 
+#to print multiple files we use \n
+#syntax: echo -e "line1\nline2"
+
+echo -e "the first point is\nlearning"
+
+
