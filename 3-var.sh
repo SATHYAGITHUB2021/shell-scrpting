@@ -20,3 +20,6 @@ ADD=$((15+25-15/2+25%5))
 
 echo total = $ADD
 
+echo variable from command line X = $x
+
+
