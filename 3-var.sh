@@ -8,6 +8,6 @@ COURSE=devops
 
 echo course name = $COURSE
 
-DATE=date
+DATE=$(date)
 today date is $DATE
 
