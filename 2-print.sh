@@ -23,7 +23,8 @@ echo -e "\nthe first point is\nlearning\n\nsecond one is\n\npractice"
 #cyan      36
 #to disable color code
 #syntax: echo -e "\e[codemMessage\e{0m"
-echo -e "\e[31mprint the text in red color"
+echo -e "\e[31mprint the text in red color\e[0m"
 echo okay
+
 
 
