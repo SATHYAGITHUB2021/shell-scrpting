@@ -7,9 +7,10 @@
 
 echo this is sathya
 
-#to print multiple files we use \n
+#to print lines we use \n
+#we can use \n\n for multiple lines
 #syntax: echo -e "line1\nline2"
 
-echo -e "the first point is\nlearning"
+echo -e "\nthe first point is\nlearning\n\nsecond one is\n\npractice"
 
 
