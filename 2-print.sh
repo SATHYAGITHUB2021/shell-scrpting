@@ -13,7 +13,7 @@ echo this is sathya
 
 echo -e "\nthe first point is\nlearning\n\nsecond one is\n\npractice"
 #print text in colurs
-#syntax: echo -e "\e{colorcodemMessage"
+#syntax: echo -e "\e[colorcodemMessage"
 #colour   code
 #red       31
 #green     32
@@ -22,8 +22,8 @@ echo -e "\nthe first point is\nlearning\n\nsecond one is\n\npractice"
 #magenta   35
 #cyan      36
 #to disable color code
-#syntax: echo -e "\e{codemMessage\e{0m"
-echo -e "\e{31mprint the text in red color"
+#syntax: echo -e "\e[codemMessage\e{0m"
+echo -e "\e[31mprint the text in red color"
 echo okay
 
 
