@@ -15,5 +15,8 @@ echo today date is $DATE
 NO_OF_USER=$(who | wc -l)
 
 echo the no.of users = $NO_OF_USER
+#add arthimetic expression
+ADD=$((15+25-15/2+25%5))
 
+echo total = $ADD
 
