@@ -15,3 +15,7 @@ echo $2
 echo $*
 echo $@
 
+##No of arguments
+
+echo $#
+
