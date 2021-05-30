@@ -8,4 +8,6 @@ echo $1
 ##second argument to the script
 echo $2
 
-##like wise you can go with $n
+##like wise you can go till $n
+
+
