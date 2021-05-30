@@ -10,4 +10,8 @@ echo $2
 
 ##like wise you can go till $n
 
+##All the arguments parsed
+
+echo $*
+echo $@
 
