@@ -3,7 +3,7 @@
 #Declare a function
 SAMPLE() {
   echo welcome to sample function
-  return
+  return 5
   echo value of a = $a
   b=20
   echo first argument = $1
