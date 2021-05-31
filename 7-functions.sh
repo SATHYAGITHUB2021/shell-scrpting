@@ -7,5 +7,5 @@ SAMPLE() {
   b=20
 }
 a=10
-echo the value of b = $b
 SAMPLE
+echo  value of b = $b
