@@ -2,5 +2,5 @@
 
 echo hello
 echo history
-exit
+exit 15
 echo say again
