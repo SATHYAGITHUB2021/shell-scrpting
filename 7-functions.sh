@@ -12,4 +12,5 @@ SAMPLE() {
 a=10
 SAMPLE xyz
 SAMPLE $1
+echo exit status of function = $?
 echo  value of b = $b
