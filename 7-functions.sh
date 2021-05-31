@@ -4,3 +4,5 @@
 SAMPLE() {
   echo welcome to sample function
 }
+
+SAMPLE
