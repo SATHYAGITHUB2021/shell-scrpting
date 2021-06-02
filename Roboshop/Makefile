@@ -1,32 +1,32 @@
 help:
 	@echo
 
-frontend:
+frontend: ## Install Frontend component
 	@sh frontend.sh
 
-mongodb:
+mongodb: ## Install Mongodb component
 	@sh mongodb.sh
 
-catalogue:
+catalogue: ## Install Catalogue component
 	@sh catalogue.sh
 
-redis:
+redis: ## Install Redis component
 	@sh redis.sh
 
-user:
+user: ## Install User component
 	@sh redis.sh
 
-cart:
+cart: ## Install Cart component
 	@sh cart
 
-mysql:
+mysql: ## Install Mysql component
 	@sh mysql.sh
 
-shipping:
+shipping: ## Install Shipping component
 	@sh shipping.sh
 
-payment:
+payment: ## Install Payment component
 	@sh payment.sh
 
-rabbitmq:
+rabbitmq: ## Install Rabbitmq component
 	@sh rabbitmq.sh
