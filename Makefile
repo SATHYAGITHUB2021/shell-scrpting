@@ -3,3 +3,7 @@ coffee:
 
 tea:
 	@echo making tea
+
+
+soda:
+	@echo making soada
