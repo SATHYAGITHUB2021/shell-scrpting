@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Installing nginx"
-yum install nginx -y
+yum install nginx -y &>>/tmp/
